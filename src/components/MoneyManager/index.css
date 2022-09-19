@@ -1,0 +1,118 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 30px;
+}
+.card1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 20vh;
+  padding-top: 25px;
+  padding-left: 50px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.heading {
+  font-size: 28px;
+  color: #475569;
+  font-family: Roboto;
+}
+.word {
+  font-size: 20px;
+  color: #0b69ff;
+  font-family: Roboto;
+}
+.paragraph {
+  font-size: 18px;
+  color: #475569;
+  font-family: Roboto;
+}
+.input-element {
+  display: flex;
+  flex-direction: column;
+}
+.label-element {
+  color: #7e858e;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Roboto;
+}
+.input {
+  background-color: transparent;
+  border: 2px solid #d7dfe9;
+  border-radius: 6px;
+  width: 30%;
+  padding: 9px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  font-family: Roboto;
+}
+.Transaction-paragraph {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: roboto;
+}
+.form-container {
+  padding: 5px;
+  margin: 10px;
+}
+.form-container1 {
+  flex-grow: 1;
+  margin: 15px;
+  border: 2px solid #d7dfe9;
+  border-radius: 8px;
+  padding-left: 50px;
+  box-shadow: 3px, solid #7e858e;
+}
+.selectItem1 {
+  background-color: transparent;
+  border: 2px solid #d7dfe9;
+  border-radius: 6px;
+  width: 30%;
+  padding: 9px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  font-family: Roboto;
+}
+.selectItemSection {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  border: 0px;
+  border-radius: 8px;
+  font-size: 15px;
+  width: 100px;
+}
+.history-Container {
+  border: 1px solid #d7dfe9;
+  border-radius: 8px;
+  padding: 3px;
+  box-shadow: 3px, solid #7e858e;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 0px;
+}
+.history-Container1 {
+  border: 2px solid #d7dfe9;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 3px, solid #7e858e;
+  margin: 15px;
+  flex-grow: 1;
+}
+.history-paragraph {
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 15px;
+  font-family: roboto;
+}
+.bottom-container {
+  display: flex;
+  flex-direction: row;
+}

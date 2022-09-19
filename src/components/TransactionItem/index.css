@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.history-paragraph2 {
+  color: #334155;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: roboto;
+}
+.history-Container2 {
+  border: 1px solid #d7dfe9;
+  border-radius: 6px;
+  padding: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+  margin-top: 0px;
+}
+.image3 {
+  width: 20px;
+  height: 20px;
+}
+.button1 {
+  background-color: transparent;
+  border: 0px;
+  text-align: center;
+}
